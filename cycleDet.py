@@ -9,6 +9,8 @@ image_path = 'cycle.png'
 img = cv2.imread(image_path)
 
 # BGR to RGB conversion is performed under the hood
+
+#COMMENT
 # see: https://github.com/ultralytics/ultralytics/issues/2575
 results = model.predict(img)
 
