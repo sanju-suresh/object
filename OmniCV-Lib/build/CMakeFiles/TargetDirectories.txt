@@ -1,0 +1,9 @@
+/media/Work/COLLEGE/sem 1/SOP/object/OmniCV-Lib/build/CMakeFiles/rebuild_cache.dir
+/media/Work/COLLEGE/sem 1/SOP/object/OmniCV-Lib/build/CMakeFiles/edit_cache.dir
+/media/Work/COLLEGE/sem 1/SOP/object/OmniCV-Lib/build/CMakeFiles/../tests/test.dir
+/media/Work/COLLEGE/sem 1/SOP/object/OmniCV-Lib/build/CMakeFiles/equirect2fisheye.dir
+/media/Work/COLLEGE/sem 1/SOP/object/OmniCV-Lib/build/CMakeFiles/equirect2persp.dir
+/media/Work/COLLEGE/sem 1/SOP/object/OmniCV-Lib/build/CMakeFiles/cubemap2persp.dir
+/media/Work/COLLEGE/sem 1/SOP/object/OmniCV-Lib/build/CMakeFiles/cubemap2equirect.dir
+/media/Work/COLLEGE/sem 1/SOP/object/OmniCV-Lib/build/CMakeFiles/equirect2cubemap.dir
+/media/Work/COLLEGE/sem 1/SOP/object/OmniCV-Lib/build/CMakeFiles/fisheye2equirect.dir
